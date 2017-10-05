@@ -8,6 +8,9 @@ More details please visit https://www.kaggle.com/c/digit-recognizer
 Code Environment
 -------
 You can use [Anaconda](https://www.anaconda.com/download/) to install the code environment in environments folder.
+1. conda env create -f kaggle_env_mac_env_mac.yml
+2. source activate kaggle
+3. jupyter notebook
 
 Implementation Details
 -------
