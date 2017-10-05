@@ -1,4 +1,4 @@
-# Kaggle-Ditial-Recognition
+# Keras-Ditial-Recognition
 
 Competition Description
 -------
